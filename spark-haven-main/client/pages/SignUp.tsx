@@ -446,7 +446,7 @@ export default function SignUp() {
             <p className="text-arcon-gray-secondary text-sm font-roboto">
               Already have an account?{" "}
               <button
-                onClick={() => navigate("/login")}
+                onClick={() => navigate("/templates")}
                 className="text-arcon-blue hover:underline font-medium"
               >
                 Log in
