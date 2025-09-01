@@ -73,7 +73,7 @@ export default function SignUp() {
       });
 
       if (response.ok) {
-        navigate("/login");
+        navigate("/templates");
       } else {
         let message = "Registration failed";
         try {
