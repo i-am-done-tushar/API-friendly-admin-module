@@ -1,0 +1,1 @@
+# API-friendly-admin-module
